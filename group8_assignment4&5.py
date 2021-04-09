@@ -18,7 +18,7 @@ from sklearn.metrics import plot_roc_curve
 from imblearn.over_sampling import SMOTE
 from sklearn.model_selection import train_test_split
 
-################## ASSIGNMENT 4 ##################
+################## ASSIGNMENT 4 & 5 ##################
 
 
 train = pd.read_csv("../../../PycharmProjects/FundPySciESCP/ML with Python/train.csv")
